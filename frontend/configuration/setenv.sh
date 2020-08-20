@@ -8,8 +8,8 @@
 #
 
 # The following settings should be adapted to your needs
-JAVA_MEMORY_MIN="2g"
-JAVA_MEMORY_MAX="4g"
+JAVA_MEMORY_MIN="4g"
+JAVA_MEMORY_MAX="8g"
 
 # The following settings should not be touched unless you know what you are doing
 # Misconfiguration may be lead to an unusable instance.
